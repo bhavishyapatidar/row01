@@ -1,1 +1,58 @@
-Ashutosh
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cloud Computing Project</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Cloud Computing Project</h1>
+            <p>Exploring the Future of Scalable and Efficient Computing</p>
+        </div>
+    </header>
+
+    <nav>
+        <a href="#overview">Overview</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="container">
+        <section class="content">
+            <div class="card">
+                <img src="cloud-service1.jpg" alt="Cloud Service 1">
+                <h3>Service 1</h3>
+                <p>Description of the cloud service 1 and its features.</p>
+            </div>
+
+            <div class="card">
+                <img src="cloud-service2.jpg" alt="Cloud Service 2">
+                <h3>Service 2</h3>
+                <p>Description of the cloud service 2 and its features.</p>
+            </div>
+
+            <div class="card">
+                <img src="cloud-service3.jpg" alt="Cloud Service 3">
+                <h3>Service 3</h3>
+                <p>Description of the cloud service 3 and its features.</p>
+            </div>
+
+            <div class="card">
+                <img src="cloud-service4.jpg" alt="Cloud Service 4">
+                <h3>Service 4</h3>
+                <p>Description of the cloud service 4 and its features.</p>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Cloud Computing Project. All Rights Reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
